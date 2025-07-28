@@ -49,7 +49,6 @@
   <!-- Frontend Frameworks -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/>
 
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
@@ -64,23 +63,19 @@
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Badge"/>
   
   <!-- Design & Version Control -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PranavShelke4&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=PranavShelke4&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavShelke4&layout=compact&theme=tokyonight" alt="Most Used Languages" /> </p>
 
 ---
 
 ### 🔗 Quick Links
-- **Portfolio:** [adityapawartech]([https://pranavshelke.tech](https://adityapawartech.vercel.app/)
-- **GitHub:** [github.com/Adityapawar18]([https://github.com/PranavShelke4](https://github.com/AdityaPawar18))
+- **Portfolio:** [adityapawartech](https://adityapawartech.vercel.app/)
+- **GitHub:** [github.com/Adityapawar18](https://github.com/AdityaPawar18)
 - **Email:** [pawaraditya183@gmail.com](mailto:pawaraditya183@gmail.com)
 
 ---
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00CED1&center=true&vCenter=true&width=500&lines=✨+Built+with+❤️+by+Pranav+Shelke!+✨" alt="Typing SVG Footer"> </p> <p align="center"> <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" alt="Rocket Animation" width="300"/> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00CED1&center=true&vCenter=true&width=500&lines=✨+Built+with+❤️+by+AdityaPawar!+✨" alt="Typing SVG Footer"> </p> <p align="center"> <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" alt="Rocket Animation" width="300"/> </p>
