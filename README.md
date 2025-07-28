@@ -19,7 +19,7 @@
 - 🌱 **Learning:** Exploring the exciting world of **AI ML**.
 - 💬 **Ask Me About:** Web development, React, and MongoDB.
 - 📬 **Reach Me At:** [pawaraditya183@gmail.com](mailto:pawaraditya183@gmail.com)
-- 🌐 **Portfolio:** [adityapawartech](https://adityapawartech.vercel.app/))
+- 🌐 **Portfolio:** [adityapawartech](https://adityapawartech.vercel.app/)
 - ⚡ **Fun Fact:** I believe in combining humor with code for better debugging.
 
 ---
